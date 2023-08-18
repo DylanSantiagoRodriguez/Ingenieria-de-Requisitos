@@ -1,0 +1,7 @@
+Menú de ventas
+
+Requisitos funcionales: permitir crear una cuenta de usuario la cual debe estar asociada obligatoriamente a una tarjeta, al pedir la información de la tarjeta, debe llenarse número de tarjeta, vencimiento, código de verificación, se puede configurar su cuenta en uno o más dispositivos para  comprar aplicaciones, consultar y modificar su información personal, y la de su tarjeta de crédito, acumular puntos por las compras.
+
+Requisitos no funcionales: seguridad al ingresar los datos de la tarjeta, brindar estabilidad en todo momento, el tiempo de carga del programa es bueno aunque varia dependiendo la maquina.
+
+Creado por: Dylan Rodrigez, Sara Ojeda
